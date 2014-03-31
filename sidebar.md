@@ -1,9 +1,9 @@
-Raspberry-Pi-Fi wiki
-====
+Design
+------
+[Purpose & Goals](/purpose)
+[Requirements](/requirements)
+[Modules](/modules)
+[UI Designs](/uidesigns)
 
-This is a sidebar
-
-
-Woop 
-
-Woop
+Documentation
+-------------
