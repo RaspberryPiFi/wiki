@@ -1,5 +1,7 @@
 name:Requirements
 
+Due to the short amount of time that this project is to be completed in, I will be using the MoSCoW technique to categorise the requirements by their importance. I aim to implement the most important requirements first ensuring that they work before proceeding onto those of lower priority. 
+
 <table>
   <tr>
     <th>#</th>
