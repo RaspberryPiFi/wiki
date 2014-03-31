@@ -88,6 +88,9 @@ Due to the short amount of time that this project is to be completed in, I will 
     <td>When the user wishes to use the party mode (synchronised playback) they may not want the playback on all devices. Including a play group functionality would allow them to select which devices they wish to be included.</td>
   </tr>
   <tr>
+    <th colspan="3">Wont have</th>
+  </tr>
+  <tr>
     <td>15</td>
     <td>Security improvements</td>
     <td>Due to the short amount of time that has been assigned to complete this project in, tight security improvements will not be possible. However with more time the system would use public/private key exchanges in order to provide authentication, confidentiality and integrity as well as web security measures such as XSRF protection.</td>
