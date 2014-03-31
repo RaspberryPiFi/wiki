@@ -1,6 +1,6 @@
 name:requirements
 
-<tabel>
+<table>
   <tr>
     <th>#</th>
     <th>Summary</th>
@@ -29,7 +29,7 @@ name:requirements
   <tr>
     <td>4</td>
     <td>Command line facility</td>
-    <td>The software should be capable of being started (witd tde above functionality in place) via tde command line</td>
+    <td>The software should be capable of being started (witd tde above functionality in place) via the command line</td>
   </tr>
-</tabel>
+</table>
   
