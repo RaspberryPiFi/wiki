@@ -7,29 +7,29 @@ name:requirements
     <th>Description</th>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <th>1</th>
-    <th>Playback on specific device</th>
-    <th>It must be possible to select an item of audio to play on a specific decice</th>
+    <td>1</td>
+    <td>Playback on specific device</td>
+    <td>It must be possible to select an item of audio to play on a specific decice</td>
   </tr>
   <tr>
-    <th>2</th>
-    <th>Synchronised audio playback (Party Mode)</th>
-    <th>The solution must be capable of synchronised playback of an audio file between 2 or more devices</th>
+    <td>2</td>
+    <td>Synchronised audio playback (Party Mode)</td>
+    <td>The solution must be capable of synchronised playback of an audio file between 2 or more devices</td>
   </tr>
   <tr>
-    <th>3</th>
-    <th>Manual Master / Slave ability</th>
-    <th>Devices must be able to either be assigned as a Master or Slave device. The master device will provide the clock (for party mode) and playback commands to the slave devices on the network.</th>
+    <td>3</td>
+    <td>Manual Master / Slave ability</td>
+    <td>Devices must be able to eitder be assigned as a Master or Slave device. The master device will provide tde clock (for party mode) and playback commands to tde slave devices on tde network.</td>
   </tr>
   <tr>
-    <th>4</th>
-    <th>Command line facility</th>
-    <th>The software should be capable of being started (with the above functionality in place) via the command line</th>
+    <td>4</td>
+    <td>Command line facility</td>
+    <td>The software should be capable of being started (witd tde above functionality in place) via tde command line</td>
   </tr>
 </tabel>
   
