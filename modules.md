@@ -11,9 +11,9 @@ The cloud-based web interface is split into the following modules:
 
 Custom Framework contains some additions to the webapp2 framework that provides:
 
-* More user-friendly error messages. By Default webapp2 will simply present a user with black text on a white screen, this provides styled error pages with the ability to show custom error messages.
+* More user-friendly error messages. By Default webapp2 will simply present a user with black text on a white screen, this provides styled error pages with the ability to show custom error messages
 * Automatic generation of menu content using names specified on creation of a RequestHandler
-* Template render function to remove complexity from each Request Handler (this also adds the site name stored in the appsettings datastore entity
+* Template render function to remove complexity from each Request Handler. This also adds the site name (stored in the appsettings datastore entity) to each page
 
 ### Models
 
