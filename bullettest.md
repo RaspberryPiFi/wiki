@@ -1,0 +1,9 @@
+* bullet test
+*  bullet test
+*   bullet test
++ bullet test
++  bullet test
++   bullet test
+- bullet test
+-  bullet test
+-   bullet test
