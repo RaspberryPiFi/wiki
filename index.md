@@ -33,4 +33,4 @@ How can I contact you about this?
 Umm.... There's an error in your docs
 ---------------------------------------
 
-Then change it! These docs are open source and can be found at [here](http://github.com/RaspberryPiFi/wiki) you can either make a change and send a pull request or you can log an issue and I'll look into it! 
+Then change it! These docs are open source and can be found [here](http://github.com/RaspberryPiFi/wiki) you can either make a change and send a pull request or you can log an issue and I'll look into it! 
