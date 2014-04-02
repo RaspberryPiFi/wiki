@@ -7,7 +7,7 @@ This Wiki provides design details and documentation for the Raspberry Pi-Fi proj
 What is Raspberry Pi-Fi?
 ------------------------
 
-Raspberry Pi-Fi is the WIP name for an open source (GPLv2) multi-room streaming audio solution using Raspberry Pis, controlled via App Engine. The primary goal of this project is to provide similar functionality to other multi-room audio solutions but at a fraction of the cost, making use of any existing audio solutions (Hi-Fis etc). 
+Raspberry Pi-Fi is the WIP name for an open source (GPLv2) multi-room streaming audio solution using Raspberry Pis, controlled via App Engine. The primary goal of this project is to provide similar functionality to other multi-room audio solutions but at a fraction of the cost, making use of any existing audio solutions you may have (Hi-Fis etc). 
 
 At what stage is this project?
 ------------------------------
