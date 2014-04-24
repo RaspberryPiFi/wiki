@@ -55,6 +55,11 @@ Due to the short amount of time that this project is to be completed in, I will 
     <td>A fully built image that when copied to an SD card and inserted into the Raspberry Pi will be fully functional. The only user interaction will be to copy the image to the SD card and turn the device on.</td>
   </tr>
   <tr>
+    <td>9</td>
+    <td>Javascript controls on the cloud user interface</td>
+    <td>In order to make the user experience richer when controlling a device through the cloud user interface, JavaScript should be used to handle actions committed. This allows for pages to adapt to the user's input quicker and also provides the ability to update the control elements (e.g. volume control) if they change.</td>
+  </tr>
+  <tr>
     <th colspan="3">Could have</th>
   </tr>
   <tr>
