@@ -79,7 +79,7 @@ Due to the short amount of time that this project is to be completed in, I will 
   </tr>
   <tr>
     <td>13</td>
-    <td>Ability to play music from network storage</td>
+    <td>Ability to play music from a network storage device</td>
     <td>A user could store their audio on a networked storage device. This could be discovered by the master device and the audio made available for playback on all devices.</td>
   </tr>
   <tr>
