@@ -65,7 +65,7 @@ Due to the short amount of time that this project is to be completed in, I will 
   <tr>
     <td>10</td>
     <td>Allow control of the devices via UPnP and/or AirPlay</td>
-    <td>The devices could be confiured to render media via UPnP or Airplay allowing them to play audio from external sources such as mobile phone, tablets and other media servers.</td>
+    <td>The devices could be configured to render media via UPnP or Airplay allowing them to play audio from external sources such as mobile phone, tablets and other media servers.</td>
   </tr>
   <tr>
     <td>11</td>
@@ -75,7 +75,7 @@ Due to the short amount of time that this project is to be completed in, I will 
   <tr>
     <td>12</td>
     <td>Ability to play music from network storage</td>
-    <td>A user could store their audio on a networked storage device. This could be discovered by the master device and the audio made availble for playback on all devices.</td>
+    <td>A user could store their audio on a networked storage device. This could be discovered by the master device and the audio made available for playback on all devices.</td>
   </tr>
   <tr>
     <td>13</td>
@@ -84,8 +84,8 @@ Due to the short amount of time that this project is to be completed in, I will 
   </tr>
   <tr>
     <td>14</td>
-    <td>"Play Group" functionality</td>
-    <td>When the user wishes to use the party mode (synchronised playback) they may not want the playback on all devices. Including a play group functionality would allow them to select which devices they wish to be included.</td>
+    <td>Ability to run as Daemon</td>
+    <td>Rather than having the app running interactively, the application could be daemonized allowing it to be run as a service. As the application is controlled entirely through the cloud user interface interactivity is not required. Having the ability to run the application as a service also means that the image can be configured to run at startup using an init script.</td>
   </tr>
   <tr>
     <th colspan="3">Wont have</th>
