@@ -63,32 +63,32 @@ Due to the short amount of time that this project is to be completed in, I will 
     <th colspan="3">Could have</th>
   </tr>
   <tr>
-    <td>9</td>
+    <td>10</td>
     <td>A Packaged version of the application</td>
     <td>A packaged version of the final solution could be made available that can be installed on practically any Debian system. This could be hosted in a custom repository.</td>
   </tr>
   <tr>
-    <td>10</td>
+    <td>11</td>
     <td>Allow control of the devices via UPnP and/or AirPlay</td>
     <td>The devices could be configured to render media via UPnP or Airplay allowing them to play audio from external sources such as mobile phone, tablets and other media servers.</td>
   </tr>
   <tr>
-    <td>11</td>
+    <td>12</td>
     <td>Ability to play music from attached USB device</td>
     <td>A user could store their audio on USB devices (such as flash drives). This music could then be made available for playing when the user plugs the USB device into their master device</td>
   </tr>
   <tr>
-    <td>12</td>
+    <td>13</td>
     <td>Ability to play music from network storage</td>
     <td>A user could store their audio on a networked storage device. This could be discovered by the master device and the audio made available for playback on all devices.</td>
   </tr>
   <tr>
-    <td>13</td>
+    <td>14</td>
     <td>Automatic audio metadata discovery</td>
     <td>In order to display a user audio collection is a user friendly way, the audio files could be scanned for their metadata. This metadata could then be used to display the user's collection on the user interface.</td>
   </tr>
   <tr>
-    <td>14</td>
+    <td>15</td>
     <td>Ability to run as Daemon</td>
     <td>Rather than having the app running interactively, the application could be daemonized allowing it to be run as a service. As the application is controlled entirely through the cloud user interface interactivity is not required. Having the ability to run the application as a service also means that the image can be configured to run at startup using an init script.</td>
   </tr>
@@ -96,9 +96,8 @@ Due to the short amount of time that this project is to be completed in, I will 
     <th colspan="3">Wont have</th>
   </tr>
   <tr>
-    <td>15</td>
+    <td>16</td>
     <td>Security improvements</td>
     <td>Due to the short amount of time that has been assigned to complete this project in, tight security improvements will not be possible. However with more time the system would use public/private key exchanges in order to provide authentication, confidentiality and integrity as well as web security measures such as XSRF protection.</td>
   </tr>
 </table>
-  
